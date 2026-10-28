@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+let me intruducing my self, 
+You will know my name if you read the repository name, and people usually call me Jek... Mujek and several other names that are close to the name 'zaki':>
+
+
+
 <!--
 **ahmadmuzak1/ahmadmuzak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
